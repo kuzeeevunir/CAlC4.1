@@ -2,7 +2,7 @@
 public class mainclassCalc {
 
 	public static void main(String[] args) {
-		System.out.print("asdd");
+		System.out.print("as5dd");
 
 	}
 

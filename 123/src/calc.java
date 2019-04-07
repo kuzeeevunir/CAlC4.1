@@ -1,8 +1,8 @@
 
-public class mainclassCalc {
+public class calc {
 
 	public static void main(String[] args) {
-		System.out.print("fff");
+		System.out.print("ffff");
 
 	}
 
